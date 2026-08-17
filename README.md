@@ -50,6 +50,7 @@ Security-tool experimentation
 
 🏗️ Lab Architecture
 
+![Title Image](Sreenshot%20title%20image.jpeg)
 
 Additional target machines can be added to the same virtual network in future projects.
 
@@ -81,7 +82,7 @@ A dedicated NAT Network was created in VirtualBox.
 
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Disabled
 
-
+![Network Settings](Screenshot%20Network%20settings.jpeg)
 
 A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -99,6 +100,7 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The VM was allocated:
 
 RAM: 2048 MB
+![Kali Linux](Screenshot%20Kali%20Linux.jpeg)
  A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 Step 5. Configure the Kali Linux Network
@@ -112,7 +114,7 @@ Gateway: 10.0.0.1
 DNS: 8.8.8.8
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-
+![Kali Network Settings](Screenshot%20Kali%20network%20settings.jpeg)
 
 Step 6. Create a Clean VM Snapshot
 After completing the initial configuration, a VirtualBox snapshot was created.
