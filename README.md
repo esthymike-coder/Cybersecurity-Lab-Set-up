@@ -182,7 +182,7 @@ Kali Linux: https://kali.org/get-kali
 
 👤 Author
 Amogbon Abimbola Esther
-Entry Level Cybersecurity Analyst
+Entry Level Cybersecurity Analyst B082
 
 LinkedIn:https://www.linkedin.com/in/amogbon-abimbola-esther-71532b179
 
