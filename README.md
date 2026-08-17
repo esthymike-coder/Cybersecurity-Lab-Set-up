@@ -46,6 +46,7 @@ Packet analysis
 Web security testing
 Exploitation practice
 Security-tool experimentation
+
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 🏗️ Lab Architecture
@@ -178,11 +179,12 @@ This laboratory is intended strictly for education purposes only.
 7-Zip: https://7-zip.org/download.html
 VirtualBox: https://virtualbox.org/wiki/Downloads
 Kali Linux: https://kali.org/get-kali
+
 👤 Author
 Amogbon Abimbola Esther
-Cybersecurity Professional B082
+Entry Level Cybersecurity Analyst
 
-LinkedIn: https://www.linkedin.com/in/amogbon-abimbola-esther
+LinkedIn:https://www.linkedin.com/in/amogbon-abimbola-esther-71532b179
 
 📌 Project Information
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
